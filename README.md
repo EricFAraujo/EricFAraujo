@@ -1,4 +1,4 @@
-### Olá eu sou o Eric Ferreira.
+### Hello, my name is Eric Ferreira.
 
 - 🔭 I’m currently working on I'm working on another job at the moment. For now i don't work in the tech area.
 - 🌱 I’m currently learning HTML, CSS, Javascript and Typescript
