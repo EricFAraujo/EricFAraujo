@@ -1,9 +1,9 @@
 ### Olá eu sou o Eric Ferreira.
 
-- 🔭 I’m currently working on ...I'm working on another job at the moment. For now i don't work in the tech area.
-- 🌱 I’m currently learning ...HTML, CSS, Javascript and Typescript
-- 🤔 I’m looking for help with ...my studing🫡
-- 📫 How to reach me: ...ericstyve@gmail.com
+- 🔭 I’m currently working on I'm working on another job at the moment. For now i don't work in the tech area.
+- 🌱 I’m currently learning HTML, CSS, Javascript and Typescript
+- 😁 I’m looking for help with my studing🫡
+- 📫 How to reach me: ericstyve@gmail.com
 - 😄 Pronouns: ...ele/dele
 
 <div style="display: inline_block"><br>
